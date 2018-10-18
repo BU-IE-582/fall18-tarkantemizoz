@@ -3,3 +3,11 @@
 ##Week 0 (September 19)
 
 [Here](files/Interesting_R_Examples-Tarkan_Temizöz.html) is my 5 interesting R examples
+
+##Homework 1 (October 18)
+
+[Here](files/IE582_Fall2018_Homework1.pdf) is the description and questions for the first homework.
+
+[Here](files/HOMEWORK_1.html) is my approach for Homework 1.
+
+
