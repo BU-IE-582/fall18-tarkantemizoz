@@ -12,7 +12,7 @@
 
 [Here](files/IE582_Fall2018_Homework2.pdf) is the description and questions for the second homework.
 
-[Here](files/HOMEWORK2_IE582.html) is my approach for Homework 2.
+[Here](files/Homework2.html) is my approach for Homework 2.
 
 
 
