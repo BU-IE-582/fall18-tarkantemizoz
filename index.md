@@ -14,6 +14,10 @@
 
 [Here](files/Homework2.html) is my approach for Homework 2.
 
+[Here](files/IE582_Fall18_HW3.pdf) is the description and questions for the third homework.
+
+[Here](files/Homework3.html) is my approach for Homework 3.
+
 
 
 
