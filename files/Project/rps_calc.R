@@ -1,0 +1,21 @@
+rps_calc=function(data,colbegin)
+{
+  outcomes=matrix(0,nrow(data),3)
+  for(i in 1:nrow(data))
+  {
+    if(data$Match_Result[i]=='Home')
+    {
+      outcomes[i,1]=1
+    }
+    if(data$Match_Result[i]=='Tie')
+    {
+      outcomes[i,2]=1
+    }
+    if(data$Match_Result[i]=='Away')
+    {
+      outcomes[i,3]=1
+    }
+  }
+  RPS_TEST=RPS_matrix(data[,colbegin:(colbegin+2)],outcomes)
+  return(RPS_TEST)
+}
