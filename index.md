@@ -22,6 +22,10 @@
 
 [Here](files/Homework4.html) is my approach for Homework 4.
 
+[Here](files/Homework5.html) is my approach for Homework 5.
+
+[Here](files/Project.html) is our approach for the Project
+
 
 
 
